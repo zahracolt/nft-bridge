@@ -1,5 +1,5 @@
 # NFT-BRIDGE
-Demo project that allows you swap nfts between Ethereum and Algorand.
+Demo project that allows you swap nfts between Ethereum and Algorand network.
 
 What's needed:
 - node
